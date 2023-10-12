@@ -31,7 +31,8 @@ Le fichier JSON est structuré de la manière suivante :
       "description": "Description de la tâche 3"
     }
   ]
-}
+} '''
+
 Chaque tâche est représentée par un objet JSON dans le tableau "posts".
 Chaque tâche a un identifiant unique ("id"), un titre, une durée estimée en minutes ("temps"), un type de tâche ("type") et une description.
 
