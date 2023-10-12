@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Titre de la tâche 1",
+      "temps": "5",
+      "type": "Participer",
+      "description": "Description de la tâche 1"
+    },
+    {
+      "id": 2,
+      "title": "Titre de la tâche 2",
+      "temps": "20",
+      "type": "Entreprendre",
+      "description": "Description de la tâche 2"
+    },
+    {
+      "id": 3,
+      "title": "Titre de la tâche 3",
+      "temps": "45",
+      "type": "Informer",
+      "description": "Description de la tâche 3"
+    }
+  ]
+}
+
