@@ -21,13 +21,6 @@
       "type": "Informer",
       "description": "Description de la tâche 3"
     },
-    {
-      "id": 4,
-      "title": "Titre de la tâche 4",
-      "temps": "45",
-      "type": "Informer",
-      "description": "Description de la tâche 4"
-    },
   ]
 }
 
