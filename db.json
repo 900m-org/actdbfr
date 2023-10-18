@@ -27,6 +27,20 @@
     "temps": "20",
     "type": "Participer",
     "description": "description de la tache 4 "
+    },
+        {
+    "id": 5,
+    "title": "Titre de la tache 5",
+    "temps": "5",
+    "type": "Informer",
+    "description": "description de la tache 5 "
+    },
+            {
+    "id": 6,
+    "title": "Titre de la tache 6",
+    "temps": "20",
+    "type": "Informer",
+    "description": "description de la tache 6 "
     }
   ]
 }
