@@ -18,7 +18,7 @@
       "id": 3,
       "title": "S'abonner à notre Infolettre",
       "temps": "5",
-      "type": "Informer",
+      "type": "S'informer",
       "description": "S'abonner à l'infolettre de 900M, c'est suivre notre actualité ainsi que recevoir les invitations à certains évènements et publications."
     },
     {
@@ -39,7 +39,7 @@
     "id": 6,
     "title": "Animer une session de sensibilisation aux enjeux de la forêt",
     "temps": "20",
-    "type": "Informer",
+    "type": "S'informer",
     "description": "Au sein de votre entreprise, votre école, votre commune, vous souhaitez sensibiliser le public aux service vitaux rendus par les forêts"
     },
     {
