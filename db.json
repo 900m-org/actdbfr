@@ -28,19 +28,26 @@
     "type": "Participer",
     "description": "Vous impliquer concrètement avec 900M"
     },
-        {
+    {
     "id": 5,
     "title": "Participer à une formation de 900M",
     "temps": "45",
-    "type": "Informer",
+    "type": "Entreprendre",
     "description": "900M vous donne les clés du pouvoir d'agir concrètement pour revitaliser votre environnement local. En plus, c'est gratuit !"
     },
-            {
+    {
     "id": 6,
     "title": "Animer une session de sensibilisation aux enjeux de la forêt",
     "temps": "20",
     "type": "Informer",
     "description": "Au sein de votre entreprise, votre école, votre commune, vous souhaitez sensibiliser le public aux service vitaux rendus par les forêts"
+    },
+    {
+    "id": 7,
+    "title": "Devenir pilote d'une initiative de l'association",
+    "temps": "45",
+    "type": "Entreprendre",
+    "description": "Si tu souhaites t'engager davantage au sein de 900M, pourquoi pas **devenir le pilote d'une initiative** de l'association ?"
     }
   ]
 }
