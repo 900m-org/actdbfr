@@ -6,7 +6,8 @@
       "temps": "5",
       "type": "Participer",
       "description": "Suivre 900M sur les réseaux sociaux (Linkedin, Mastodon, Facebook, Twitter), c'est donner un porte voix à l'association",
-      "comment": ""
+      "comment": "",
+      "lien": ""
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "temps": "5",
       "type": "Participer",
       "description": "Visiter notre site internet permet de vous impreigner de nos actions et de qui nous sommes",
-      "comment": ""
+      "comment": "",
+      "lien": ""
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "temps": "5",
       "type": "Informer",
       "description": "S'abonner à l'infolettre de 900M, c'est suivre notre actualité ainsi que recevoir les invitations à certains évènements et publications.",
-      "comment": ""
+      "comment": "",
+      "lien": ""
     },
     {
     "id": 4,
@@ -30,7 +33,8 @@
     "temps": "45",
     "type": "Participer",
     "description": "Vous impliquer concrètement avec 900M",
-    "comment": ""
+    "comment": "",
+    "lien": ""
     },
     {
     "id": 5,
@@ -38,7 +42,8 @@
     "temps": "45",
     "type": "Entreprendre",
     "description": "900M vous donne les clés du pouvoir d'agir concrètement pour revitaliser votre environnement local. En plus, c'est gratuit !",
-    "comment": ""
+    "comment": "",
+    "lien": ""
     },
     {
     "id": 6,
@@ -46,7 +51,8 @@
     "temps": "20",
     "type": "Informer",
     "description": "Au sein de votre entreprise, votre école, votre commune, vous souhaitez sensibiliser le public aux service vitaux rendus par les forêts",
-    "comment": ""
+    "comment": "",
+    "lien": ""
     },
     {
     "id": 7,
@@ -54,8 +60,8 @@
     "temps": "45",
     "type": "Entreprendre",
     "description": "Si tu souhaites t'engager davantage au sein de 900M, pourquoi pas **devenir le pilote d'une initiative** de l'association ?",
-    "comment": ""
+    "comment": "",
+    "lien": ""
     }
   ]
 }
-
