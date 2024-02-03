@@ -32,7 +32,7 @@ Bin{
     "title": "Donner sans argent avec Bing",
     "temps": "5",
     "type": "Participer",
-    "description": "Si tu disposes d'une adresse e-mail outlook/hotmail/microsoft, tu peux donner sans argent grâce à notre partenaire Bing Rewards",
+    "description": "Si vous disposez d'une adresse e-mail outlook/hotmail/microsoft, tu peux donner sans argent grâce à notre partenaire Bing Rewards",
     "comment": " vous pouvez donner vos points Microsoft Reward à 900M en cliquant sur le lien ci-dessous et en sélectionnant 900M",
     "lien": "https://www.bing.com/give/search?searchQuery=900M"
     },
@@ -41,8 +41,8 @@ Bin{
     "title": "Donner sans perdre d'argent avec Hool",
     "temps": "5",
     "type": "Participer",
-    "description": "Particuliers ou entreprises, si vous souhaitez offrir une carte cadeau, grâce à notre partenaire HOOL, vous pouvez donner à 900M. Le Don est financé par Hool grâce aux partenariats mis en place avec les Enseignes.",
-    "comment": "Lors de votre commande, choisissez 900M.",
+    "description": "Particuliers ou entreprises, si vous souhaitez offrir une carte cadeau, grâce à notre partenaire HOOL, vous pouvez donner à 900M.",
+    "comment": "Le Don est financé par Hool grâce aux partenariats mis en place avec les Enseignes. Lors de votre commande, choisissez 900M.",
     "lien": "https://www.hool.fr/fiche-projet?id_projet=318"
     },
     {
