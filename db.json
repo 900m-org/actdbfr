@@ -1,4 +1,4 @@
-{
+Bin{
   "posts": [
     {
       "id": 1,
@@ -29,7 +29,7 @@
     },
     {
     "id": 4,
-    "title": "Donner sans argent",
+    "title": "Donner sans argent avec Bing",
     "temps": "5",
     "type": "Participer",
     "description": "Si tu disposes d'une adresse e-mail outlook/hotmail/microsoft, tu peux donner sans argent grâce à notre partenaire Bing Rewards",
@@ -38,12 +38,12 @@
     },
     {
     "id": 5,
-    "title": "Participer à une formation de 900M",
+    "title": "Donner sans perdre d'argent avec Hool",
     "temps": "45",
-    "type": "Entreprendre",
-    "description": "900M vous donne les clés du pouvoir d'agir concrètement pour revitaliser votre environnement local. En plus, c'est gratuit !",
-    "comment": "",
-    "lien": ""
+    "type": "Participer",
+    "description": "Particuliers ou entreprises, si vous souhaitez offrir une carte cadeau, grâce à notre partenaire HOOL, vous pouvez donner à 900M. Le Don est financé par Hool grâce aux partenariats mis en place avec les Enseignes.",
+    "comment": "Lors de votre commande, choisissez 900M.",
+    "lien": "https://www.hool.fr/fiche-projet?id_projet=318"
     },
     {
     "id": 6,
